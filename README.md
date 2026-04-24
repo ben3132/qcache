@@ -1,8 +1,8 @@
 # qcache - OpenClaw 问答缓存技能
 
-[![Version](https://img.shields.io/badge/version-0.1.1-blue.svg)](https://github.com/ben3132/qcache)
+[![Version](https://img.shields.io/badge/version-1.0.0-blue.svg)](https://github.com/ben3132/qcache)
 [![License](https://img.shields.io/badge/license-MIT-green.svg)](LICENSE)
-[![Python](https://img.shields.io/badge/python-3.8+-yellow.svg)](https://www.python.org/)
+[![Python](https://img.shields.io/badge/python-3.7+-yellow.svg)](https://www.python.org/)
 
 📦 减少同一对话中重复问题的 token 消耗
 
